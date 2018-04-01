@@ -1,0 +1,15 @@
+{
+  "name": "ethertransaction",
+  "version": "1.0.0",
+  "description": "send etheres from one address to another address on mainnet or testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujit kumar singh",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "ethers": "3.0.8"
+  }
+}
